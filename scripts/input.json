@@ -1,0 +1,16 @@
+[
+  {
+    "endpoint": "/multiply",
+    "data": {
+      "parameters": [2, 3],
+      "userId": "user1"
+    }
+  },
+  {
+    "endpoint": "/plus",
+    "data": {
+      "parameters": [4, 5],
+      "userId": "user2"
+    }
+  }
+]
